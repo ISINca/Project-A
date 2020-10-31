@@ -8,9 +8,6 @@ public class ProjectAServerTarget : TargetRules
     {
         Type = TargetType.Server;
         DefaultBuildSettings = BuildSettingsVersion.V2;
-        ExtraModuleNames.AddRange(new string[]
-        {
-"ProjectA"
-        });
+        ExtraModuleNames.AddRange(new string[] {"ProjectA"});
     }
 }
