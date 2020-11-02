@@ -1,6 +1,6 @@
 Saved/
 Intermediate/
-Binaries/
 Build/
 .vs/
-ProjectA.uproject
+/Binaries
+
